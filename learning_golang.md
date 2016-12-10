@@ -4,8 +4,8 @@
 
 * setup golang on your computer
 * ide / editor
-* [workflow golang](#Golang Workflow)
+* [workflow golang](#Workflow)
 
 I have had so much help from doing the project thanks to having a community of friends to ask.
 
-# Golang Workflow
+# Workflow
